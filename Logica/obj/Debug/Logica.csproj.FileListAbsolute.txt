@@ -1,0 +1,44 @@
+C:\Users\mdrod\source\repos\ParcialProgramacion\Logica\bin\Debug\Logica.dll
+C:\Users\mdrod\source\repos\ParcialProgramacion\Logica\bin\Debug\Logica.pdb
+C:\Users\mdrod\source\repos\ParcialProgramacion\Logica\bin\Debug\Datos.dll
+C:\Users\mdrod\source\repos\ParcialProgramacion\Logica\bin\Debug\Entidad.dll
+C:\Users\mdrod\source\repos\ParcialProgramacion\Logica\bin\Debug\Datos.pdb
+C:\Users\mdrod\source\repos\ParcialProgramacion\Logica\bin\Debug\Entidad.pdb
+C:\Users\mdrod\source\repos\ParcialProgramacion\Logica\obj\Debug\Logica.csproj.AssemblyReference.cache
+C:\Users\mdrod\source\repos\ParcialProgramacion\Logica\obj\Debug\Logica.csproj.CoreCompileInputs.cache
+C:\Users\mdrod\source\repos\ParcialProgramacion\Logica\obj\Debug\Logica.csproj.CopyComplete
+C:\Users\mdrod\source\repos\ParcialProgramacion\Logica\obj\Debug\Logica.dll
+C:\Users\mdrod\source\repos\ParcialProgramacion\Logica\obj\Debug\Logica.pdb
+C:\Users\ESTUDIANTE UPC\Desktop\ParcialProgramacion\Logica\bin\Debug\Logica.dll
+C:\Users\ESTUDIANTE UPC\Desktop\ParcialProgramacion\Logica\bin\Debug\Logica.pdb
+C:\Users\ESTUDIANTE UPC\Desktop\ParcialProgramacion\Logica\bin\Debug\Datos.dll
+C:\Users\ESTUDIANTE UPC\Desktop\ParcialProgramacion\Logica\bin\Debug\Entidad.dll
+C:\Users\ESTUDIANTE UPC\Desktop\ParcialProgramacion\Logica\bin\Debug\Datos.pdb
+C:\Users\ESTUDIANTE UPC\Desktop\ParcialProgramacion\Logica\bin\Debug\Entidad.pdb
+C:\Users\ESTUDIANTE UPC\Desktop\ParcialProgramacion\Logica\obj\Debug\Logica.csproj.AssemblyReference.cache
+C:\Users\ESTUDIANTE UPC\Desktop\ParcialProgramacion\Logica\obj\Debug\Logica.csproj.CoreCompileInputs.cache
+C:\Users\ESTUDIANTE UPC\Desktop\ParcialProgramacion\Logica\obj\Debug\Logica.csproj.CopyComplete
+C:\Users\ESTUDIANTE UPC\Desktop\ParcialProgramacion\Logica\obj\Debug\Logica.dll
+C:\Users\ESTUDIANTE UPC\Desktop\ParcialProgramacion\Logica\obj\Debug\Logica.pdb
+C:\Users\57301\Downloads\ParcialProgramacion\Logica\bin\Debug\Logica.dll
+C:\Users\57301\Downloads\ParcialProgramacion\Logica\bin\Debug\Logica.pdb
+C:\Users\57301\Downloads\ParcialProgramacion\Logica\bin\Debug\Datos.dll
+C:\Users\57301\Downloads\ParcialProgramacion\Logica\bin\Debug\Entidad.dll
+C:\Users\57301\Downloads\ParcialProgramacion\Logica\bin\Debug\Datos.pdb
+C:\Users\57301\Downloads\ParcialProgramacion\Logica\bin\Debug\Entidad.pdb
+C:\Users\57301\Downloads\ParcialProgramacion\Logica\obj\Debug\Logica.csproj.AssemblyReference.cache
+C:\Users\57301\Downloads\ParcialProgramacion\Logica\obj\Debug\Logica.csproj.CoreCompileInputs.cache
+C:\Users\57301\Downloads\ParcialProgramacion\Logica\obj\Debug\Logica.csproj.CopyComplete
+C:\Users\57301\Downloads\ParcialProgramacion\Logica\obj\Debug\Logica.dll
+C:\Users\57301\Downloads\ParcialProgramacion\Logica\obj\Debug\Logica.pdb
+C:\Users\mdrod\Desktop\ParcialProgramacion\Logica\bin\Debug\Logica.dll
+C:\Users\mdrod\Desktop\ParcialProgramacion\Logica\bin\Debug\Logica.pdb
+C:\Users\mdrod\Desktop\ParcialProgramacion\Logica\bin\Debug\Datos.dll
+C:\Users\mdrod\Desktop\ParcialProgramacion\Logica\bin\Debug\Entidad.dll
+C:\Users\mdrod\Desktop\ParcialProgramacion\Logica\bin\Debug\Datos.pdb
+C:\Users\mdrod\Desktop\ParcialProgramacion\Logica\bin\Debug\Entidad.pdb
+C:\Users\mdrod\Desktop\ParcialProgramacion\Logica\obj\Debug\Logica.csproj.AssemblyReference.cache
+C:\Users\mdrod\Desktop\ParcialProgramacion\Logica\obj\Debug\Logica.csproj.CoreCompileInputs.cache
+C:\Users\mdrod\Desktop\ParcialProgramacion\Logica\obj\Debug\Logica.csproj.CopyComplete
+C:\Users\mdrod\Desktop\ParcialProgramacion\Logica\obj\Debug\Logica.dll
+C:\Users\mdrod\Desktop\ParcialProgramacion\Logica\obj\Debug\Logica.pdb

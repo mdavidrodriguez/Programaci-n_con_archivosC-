@@ -1,0 +1,80 @@
+C:\Users\mdrod\source\repos\ParcialProgramacion\Presentacion\bin\Debug\Presentacion.exe.config
+C:\Users\mdrod\source\repos\ParcialProgramacion\Presentacion\bin\Debug\Presentacion.exe
+C:\Users\mdrod\source\repos\ParcialProgramacion\Presentacion\bin\Debug\Presentacion.pdb
+C:\Users\mdrod\source\repos\ParcialProgramacion\Presentacion\bin\Debug\Datos.dll
+C:\Users\mdrod\source\repos\ParcialProgramacion\Presentacion\bin\Debug\Logica.dll
+C:\Users\mdrod\source\repos\ParcialProgramacion\Presentacion\bin\Debug\Datos.pdb
+C:\Users\mdrod\source\repos\ParcialProgramacion\Presentacion\bin\Debug\Logica.pdb
+C:\Users\mdrod\source\repos\ParcialProgramacion\Presentacion\obj\Debug\Presentacion.csproj.AssemblyReference.cache
+C:\Users\mdrod\source\repos\ParcialProgramacion\Presentacion\obj\Debug\Presentacion.csproj.SuggestedBindingRedirects.cache
+C:\Users\mdrod\source\repos\ParcialProgramacion\Presentacion\obj\Debug\Presentacion.Properties.Resources.resources
+C:\Users\mdrod\source\repos\ParcialProgramacion\Presentacion\obj\Debug\Presentacion.csproj.GenerateResource.cache
+C:\Users\mdrod\source\repos\ParcialProgramacion\Presentacion\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\mdrod\source\repos\ParcialProgramacion\Presentacion\obj\Debug\Presentacion.csproj.CopyComplete
+C:\Users\mdrod\source\repos\ParcialProgramacion\Presentacion\obj\Debug\Presentacion.exe
+C:\Users\mdrod\source\repos\ParcialProgramacion\Presentacion\obj\Debug\Presentacion.pdb
+C:\Users\mdrod\source\repos\ParcialProgramacion\Presentacion\bin\Debug\Entidad.dll
+C:\Users\mdrod\source\repos\ParcialProgramacion\Presentacion\bin\Debug\Entidad.pdb
+C:\Users\mdrod\source\repos\ParcialProgramacion\Presentacion\obj\Debug\Presentacion.FrmConsulta.resources
+C:\Users\mdrod\source\repos\ParcialProgramacion\Presentacion\obj\Debug\Presentacion.FrmEmpleado.resources
+C:\Users\mdrod\source\repos\ParcialProgramacion\Presentacion\obj\Debug\Presentacion.InterfazPrincipal.resources
+C:\Users\ESTUDIANTE UPC\Desktop\ParcialProgramacion\Presentacion\bin\Debug\Presentacion.exe.config
+C:\Users\ESTUDIANTE UPC\Desktop\ParcialProgramacion\Presentacion\bin\Debug\Presentacion.exe
+C:\Users\ESTUDIANTE UPC\Desktop\ParcialProgramacion\Presentacion\bin\Debug\Presentacion.pdb
+C:\Users\ESTUDIANTE UPC\Desktop\ParcialProgramacion\Presentacion\bin\Debug\Datos.dll
+C:\Users\ESTUDIANTE UPC\Desktop\ParcialProgramacion\Presentacion\bin\Debug\Entidad.dll
+C:\Users\ESTUDIANTE UPC\Desktop\ParcialProgramacion\Presentacion\bin\Debug\Logica.dll
+C:\Users\ESTUDIANTE UPC\Desktop\ParcialProgramacion\Presentacion\bin\Debug\Datos.pdb
+C:\Users\ESTUDIANTE UPC\Desktop\ParcialProgramacion\Presentacion\bin\Debug\Entidad.pdb
+C:\Users\ESTUDIANTE UPC\Desktop\ParcialProgramacion\Presentacion\bin\Debug\Logica.pdb
+C:\Users\ESTUDIANTE UPC\Desktop\ParcialProgramacion\Presentacion\obj\Debug\Presentacion.csproj.AssemblyReference.cache
+C:\Users\ESTUDIANTE UPC\Desktop\ParcialProgramacion\Presentacion\obj\Debug\Presentacion.csproj.SuggestedBindingRedirects.cache
+C:\Users\ESTUDIANTE UPC\Desktop\ParcialProgramacion\Presentacion\obj\Debug\Presentacion.FrmConsulta.resources
+C:\Users\ESTUDIANTE UPC\Desktop\ParcialProgramacion\Presentacion\obj\Debug\Presentacion.FrmEmpleado.resources
+C:\Users\ESTUDIANTE UPC\Desktop\ParcialProgramacion\Presentacion\obj\Debug\Presentacion.InterfazPrincipal.resources
+C:\Users\ESTUDIANTE UPC\Desktop\ParcialProgramacion\Presentacion\obj\Debug\Presentacion.Properties.Resources.resources
+C:\Users\ESTUDIANTE UPC\Desktop\ParcialProgramacion\Presentacion\obj\Debug\Presentacion.csproj.GenerateResource.cache
+C:\Users\ESTUDIANTE UPC\Desktop\ParcialProgramacion\Presentacion\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\ESTUDIANTE UPC\Desktop\ParcialProgramacion\Presentacion\obj\Debug\Presentacion.csproj.CopyComplete
+C:\Users\ESTUDIANTE UPC\Desktop\ParcialProgramacion\Presentacion\obj\Debug\Presentacion.exe
+C:\Users\ESTUDIANTE UPC\Desktop\ParcialProgramacion\Presentacion\obj\Debug\Presentacion.pdb
+C:\Users\57301\Downloads\ParcialProgramacion\Presentacion\bin\Debug\Presentacion.exe.config
+C:\Users\57301\Downloads\ParcialProgramacion\Presentacion\bin\Debug\Presentacion.exe
+C:\Users\57301\Downloads\ParcialProgramacion\Presentacion\bin\Debug\Presentacion.pdb
+C:\Users\57301\Downloads\ParcialProgramacion\Presentacion\bin\Debug\Datos.dll
+C:\Users\57301\Downloads\ParcialProgramacion\Presentacion\bin\Debug\Entidad.dll
+C:\Users\57301\Downloads\ParcialProgramacion\Presentacion\bin\Debug\Logica.dll
+C:\Users\57301\Downloads\ParcialProgramacion\Presentacion\bin\Debug\Datos.pdb
+C:\Users\57301\Downloads\ParcialProgramacion\Presentacion\bin\Debug\Entidad.pdb
+C:\Users\57301\Downloads\ParcialProgramacion\Presentacion\bin\Debug\Logica.pdb
+C:\Users\57301\Downloads\ParcialProgramacion\Presentacion\obj\Debug\Presentacion.csproj.AssemblyReference.cache
+C:\Users\57301\Downloads\ParcialProgramacion\Presentacion\obj\Debug\Presentacion.csproj.SuggestedBindingRedirects.cache
+C:\Users\57301\Downloads\ParcialProgramacion\Presentacion\obj\Debug\Presentacion.FrmConsulta.resources
+C:\Users\57301\Downloads\ParcialProgramacion\Presentacion\obj\Debug\Presentacion.InterfazPrincipal.resources
+C:\Users\57301\Downloads\ParcialProgramacion\Presentacion\obj\Debug\Presentacion.Properties.Resources.resources
+C:\Users\57301\Downloads\ParcialProgramacion\Presentacion\obj\Debug\Presentacion.csproj.GenerateResource.cache
+C:\Users\57301\Downloads\ParcialProgramacion\Presentacion\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\57301\Downloads\ParcialProgramacion\Presentacion\obj\Debug\Presentacion.csproj.CopyComplete
+C:\Users\57301\Downloads\ParcialProgramacion\Presentacion\obj\Debug\Presentacion.exe
+C:\Users\57301\Downloads\ParcialProgramacion\Presentacion\obj\Debug\Presentacion.pdb
+C:\Users\57301\Downloads\ParcialProgramacion\Presentacion\obj\Debug\Presentacion.FrmEncuestados.resources
+C:\Users\mdrod\Desktop\ParcialProgramacion\Presentacion\bin\Debug\Presentacion.exe.config
+C:\Users\mdrod\Desktop\ParcialProgramacion\Presentacion\bin\Debug\Presentacion.exe
+C:\Users\mdrod\Desktop\ParcialProgramacion\Presentacion\bin\Debug\Presentacion.pdb
+C:\Users\mdrod\Desktop\ParcialProgramacion\Presentacion\bin\Debug\Datos.dll
+C:\Users\mdrod\Desktop\ParcialProgramacion\Presentacion\bin\Debug\Entidad.dll
+C:\Users\mdrod\Desktop\ParcialProgramacion\Presentacion\bin\Debug\Logica.dll
+C:\Users\mdrod\Desktop\ParcialProgramacion\Presentacion\bin\Debug\Datos.pdb
+C:\Users\mdrod\Desktop\ParcialProgramacion\Presentacion\bin\Debug\Entidad.pdb
+C:\Users\mdrod\Desktop\ParcialProgramacion\Presentacion\bin\Debug\Logica.pdb
+C:\Users\mdrod\Desktop\ParcialProgramacion\Presentacion\obj\Debug\Presentacion.csproj.AssemblyReference.cache
+C:\Users\mdrod\Desktop\ParcialProgramacion\Presentacion\obj\Debug\Presentacion.csproj.SuggestedBindingRedirects.cache
+C:\Users\mdrod\Desktop\ParcialProgramacion\Presentacion\obj\Debug\Presentacion.FrmConsulta.resources
+C:\Users\mdrod\Desktop\ParcialProgramacion\Presentacion\obj\Debug\Presentacion.FrmEncuestados.resources
+C:\Users\mdrod\Desktop\ParcialProgramacion\Presentacion\obj\Debug\Presentacion.InterfazPrincipal.resources
+C:\Users\mdrod\Desktop\ParcialProgramacion\Presentacion\obj\Debug\Presentacion.Properties.Resources.resources
+C:\Users\mdrod\Desktop\ParcialProgramacion\Presentacion\obj\Debug\Presentacion.csproj.GenerateResource.cache
+C:\Users\mdrod\Desktop\ParcialProgramacion\Presentacion\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\mdrod\Desktop\ParcialProgramacion\Presentacion\obj\Debug\Presentacion.csproj.CopyComplete
+C:\Users\mdrod\Desktop\ParcialProgramacion\Presentacion\obj\Debug\Presentacion.exe
+C:\Users\mdrod\Desktop\ParcialProgramacion\Presentacion\obj\Debug\Presentacion.pdb

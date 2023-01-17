@@ -1,0 +1,36 @@
+C:\Users\mdrod\source\repos\ParcialProgramacion\Datos\bin\Debug\Datos.dll
+C:\Users\mdrod\source\repos\ParcialProgramacion\Datos\bin\Debug\Datos.pdb
+C:\Users\mdrod\source\repos\ParcialProgramacion\Datos\bin\Debug\Entidad.dll
+C:\Users\mdrod\source\repos\ParcialProgramacion\Datos\bin\Debug\Entidad.pdb
+C:\Users\mdrod\source\repos\ParcialProgramacion\Datos\obj\Debug\Datos.csproj.AssemblyReference.cache
+C:\Users\mdrod\source\repos\ParcialProgramacion\Datos\obj\Debug\Datos.csproj.CoreCompileInputs.cache
+C:\Users\mdrod\source\repos\ParcialProgramacion\Datos\obj\Debug\Datos.csproj.CopyComplete
+C:\Users\mdrod\source\repos\ParcialProgramacion\Datos\obj\Debug\Datos.dll
+C:\Users\mdrod\source\repos\ParcialProgramacion\Datos\obj\Debug\Datos.pdb
+C:\Users\ESTUDIANTE UPC\Desktop\ParcialProgramacion\Datos\bin\Debug\Datos.dll
+C:\Users\ESTUDIANTE UPC\Desktop\ParcialProgramacion\Datos\bin\Debug\Datos.pdb
+C:\Users\ESTUDIANTE UPC\Desktop\ParcialProgramacion\Datos\bin\Debug\Entidad.dll
+C:\Users\ESTUDIANTE UPC\Desktop\ParcialProgramacion\Datos\bin\Debug\Entidad.pdb
+C:\Users\ESTUDIANTE UPC\Desktop\ParcialProgramacion\Datos\obj\Debug\Datos.csproj.AssemblyReference.cache
+C:\Users\ESTUDIANTE UPC\Desktop\ParcialProgramacion\Datos\obj\Debug\Datos.csproj.CoreCompileInputs.cache
+C:\Users\ESTUDIANTE UPC\Desktop\ParcialProgramacion\Datos\obj\Debug\Datos.csproj.CopyComplete
+C:\Users\ESTUDIANTE UPC\Desktop\ParcialProgramacion\Datos\obj\Debug\Datos.dll
+C:\Users\ESTUDIANTE UPC\Desktop\ParcialProgramacion\Datos\obj\Debug\Datos.pdb
+C:\Users\57301\Downloads\ParcialProgramacion\Datos\bin\Debug\Datos.dll
+C:\Users\57301\Downloads\ParcialProgramacion\Datos\bin\Debug\Datos.pdb
+C:\Users\57301\Downloads\ParcialProgramacion\Datos\bin\Debug\Entidad.dll
+C:\Users\57301\Downloads\ParcialProgramacion\Datos\bin\Debug\Entidad.pdb
+C:\Users\57301\Downloads\ParcialProgramacion\Datos\obj\Debug\Datos.csproj.AssemblyReference.cache
+C:\Users\57301\Downloads\ParcialProgramacion\Datos\obj\Debug\Datos.csproj.CoreCompileInputs.cache
+C:\Users\57301\Downloads\ParcialProgramacion\Datos\obj\Debug\Datos.csproj.CopyComplete
+C:\Users\57301\Downloads\ParcialProgramacion\Datos\obj\Debug\Datos.dll
+C:\Users\57301\Downloads\ParcialProgramacion\Datos\obj\Debug\Datos.pdb
+C:\Users\mdrod\Desktop\ParcialProgramacion\Datos\bin\Debug\Datos.dll
+C:\Users\mdrod\Desktop\ParcialProgramacion\Datos\bin\Debug\Datos.pdb
+C:\Users\mdrod\Desktop\ParcialProgramacion\Datos\bin\Debug\Entidad.dll
+C:\Users\mdrod\Desktop\ParcialProgramacion\Datos\bin\Debug\Entidad.pdb
+C:\Users\mdrod\Desktop\ParcialProgramacion\Datos\obj\Debug\Datos.csproj.AssemblyReference.cache
+C:\Users\mdrod\Desktop\ParcialProgramacion\Datos\obj\Debug\Datos.csproj.CoreCompileInputs.cache
+C:\Users\mdrod\Desktop\ParcialProgramacion\Datos\obj\Debug\Datos.csproj.CopyComplete
+C:\Users\mdrod\Desktop\ParcialProgramacion\Datos\obj\Debug\Datos.dll
+C:\Users\mdrod\Desktop\ParcialProgramacion\Datos\obj\Debug\Datos.pdb

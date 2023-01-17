@@ -1,0 +1,24 @@
+C:\Users\mdrod\source\repos\ParcialProgramacion\Entidad\bin\Debug\Entidad.dll
+C:\Users\mdrod\source\repos\ParcialProgramacion\Entidad\bin\Debug\Entidad.pdb
+C:\Users\mdrod\source\repos\ParcialProgramacion\Entidad\obj\Debug\Entidad.csproj.AssemblyReference.cache
+C:\Users\mdrod\source\repos\ParcialProgramacion\Entidad\obj\Debug\Entidad.csproj.CoreCompileInputs.cache
+C:\Users\mdrod\source\repos\ParcialProgramacion\Entidad\obj\Debug\Entidad.dll
+C:\Users\mdrod\source\repos\ParcialProgramacion\Entidad\obj\Debug\Entidad.pdb
+C:\Users\ESTUDIANTE UPC\Desktop\ParcialProgramacion\Entidad\bin\Debug\Entidad.dll
+C:\Users\ESTUDIANTE UPC\Desktop\ParcialProgramacion\Entidad\bin\Debug\Entidad.pdb
+C:\Users\ESTUDIANTE UPC\Desktop\ParcialProgramacion\Entidad\obj\Debug\Entidad.csproj.AssemblyReference.cache
+C:\Users\ESTUDIANTE UPC\Desktop\ParcialProgramacion\Entidad\obj\Debug\Entidad.csproj.CoreCompileInputs.cache
+C:\Users\ESTUDIANTE UPC\Desktop\ParcialProgramacion\Entidad\obj\Debug\Entidad.dll
+C:\Users\ESTUDIANTE UPC\Desktop\ParcialProgramacion\Entidad\obj\Debug\Entidad.pdb
+C:\Users\57301\Downloads\ParcialProgramacion\Entidad\bin\Debug\Entidad.dll
+C:\Users\57301\Downloads\ParcialProgramacion\Entidad\bin\Debug\Entidad.pdb
+C:\Users\57301\Downloads\ParcialProgramacion\Entidad\obj\Debug\Entidad.csproj.AssemblyReference.cache
+C:\Users\57301\Downloads\ParcialProgramacion\Entidad\obj\Debug\Entidad.csproj.CoreCompileInputs.cache
+C:\Users\57301\Downloads\ParcialProgramacion\Entidad\obj\Debug\Entidad.dll
+C:\Users\57301\Downloads\ParcialProgramacion\Entidad\obj\Debug\Entidad.pdb
+C:\Users\mdrod\Desktop\ParcialProgramacion\Entidad\bin\Debug\Entidad.dll
+C:\Users\mdrod\Desktop\ParcialProgramacion\Entidad\bin\Debug\Entidad.pdb
+C:\Users\mdrod\Desktop\ParcialProgramacion\Entidad\obj\Debug\Entidad.csproj.AssemblyReference.cache
+C:\Users\mdrod\Desktop\ParcialProgramacion\Entidad\obj\Debug\Entidad.csproj.CoreCompileInputs.cache
+C:\Users\mdrod\Desktop\ParcialProgramacion\Entidad\obj\Debug\Entidad.dll
+C:\Users\mdrod\Desktop\ParcialProgramacion\Entidad\obj\Debug\Entidad.pdb
