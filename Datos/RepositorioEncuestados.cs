@@ -65,21 +65,22 @@ namespace Datos
             archivo.Close();
             return empleados;
         }
+
         public List<Encuestados> FiltrarPorSexo(string sexo)
         {
-            var consultarsexo = from s in ConsultarTodos() where s.Sexo == sexo select s;
-            return consultarsexo.ToList();
+            IEnumerable<Encuestados> estudiantes = from encuestados in ConsultarTodos() where encuestados.Sexo == sexo select encuestados;
+            return estudiantes.ToList();
         }
         public List<Encuestados> FiltrarPorFecha(DateTime mes)
         {
-            var consultafecha = from p in ConsultarTodos()
-                    where p.fecha.Month.Equals(mes.Month) && p.fecha.Year.Equals(mes.Year)
-                    select p;
-            return consultafecha.ToList();
+            IEnumerable<Encuestados> filtrofecha = from fechaEncuestado in ConsultarTodos() where fechaEncuestado.fecha.Month == mes.Month select fechaEncuestado;
+            return filtrofecha.ToList();
 
         }
 
-         
+
+
+
 
     }
 }

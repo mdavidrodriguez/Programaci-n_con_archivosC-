@@ -22,3 +22,9 @@ C:\Users\mdrod\Desktop\ParcialProgramacion\Entidad\obj\Debug\Entidad.csproj.Asse
 C:\Users\mdrod\Desktop\ParcialProgramacion\Entidad\obj\Debug\Entidad.csproj.CoreCompileInputs.cache
 C:\Users\mdrod\Desktop\ParcialProgramacion\Entidad\obj\Debug\Entidad.dll
 C:\Users\mdrod\Desktop\ParcialProgramacion\Entidad\obj\Debug\Entidad.pdb
+C:\Users\mdrod\Desktop\Programaci-n_con_archivosC-\Entidad\bin\Debug\Entidad.dll
+C:\Users\mdrod\Desktop\Programaci-n_con_archivosC-\Entidad\bin\Debug\Entidad.pdb
+C:\Users\mdrod\Desktop\Programaci-n_con_archivosC-\Entidad\obj\Debug\Entidad.csproj.AssemblyReference.cache
+C:\Users\mdrod\Desktop\Programaci-n_con_archivosC-\Entidad\obj\Debug\Entidad.csproj.CoreCompileInputs.cache
+C:\Users\mdrod\Desktop\Programaci-n_con_archivosC-\Entidad\obj\Debug\Entidad.dll
+C:\Users\mdrod\Desktop\Programaci-n_con_archivosC-\Entidad\obj\Debug\Entidad.pdb
